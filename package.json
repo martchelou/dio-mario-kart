@@ -1,0 +1,14 @@
+{
+  "name": "dio-mario-kart",
+  "version": "1.7.1",
+  "description": "Disputas de 2 em 2 com  cards opções de personagnes personalizaveis",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "play": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": ["node","js","game","mario-kart"],
+  "author": "@felipão da dio, versão de aprendizado @martchelou",
+  "license": "ISC"
+}
