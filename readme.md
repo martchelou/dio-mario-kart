@@ -35,6 +35,9 @@ Jogadores:
 - [X] Caso o bloco da pista seja um CONFRONTO, o jogador deve jogar um dado de 6 lados e somar o atributo PODER, quem perder, perde um ponto
 - [X] Nenhum jogador pode ter pontuação negativa (valores abaixo de 0)
 - [X] boostPoints pela diferença dos dados somando ao vencedor do confronto e subtraindo do perdedor
+- [ ] Desacoplar rodada das corridas para permitir um desempate no final executando mais uma rodada separada
+- [X] Implementar relatorio de cartas a cada rodada para tornar o resultado de cada rodada mais transparente
+- [X] Mostrar as cartas no inicio como super trunfo.
 
 Condição de vitória:
 
